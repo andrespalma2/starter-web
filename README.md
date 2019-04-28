@@ -14,3 +14,6 @@ New paragraph
 ## DEPLOYMENT!
 Description of deploy
 This is a simple web project, deployment can be on any server
+
+##Copyright
+2019 git trainging
