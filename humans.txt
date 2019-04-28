@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+Andres Palma - Software Engineer
 # THANKS
 
     <name>
