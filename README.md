@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 ## Introduction
 New paragraph
 ## How to contibute
+Please fork this repo
 
 ## DEPLOYMENT!
 Description of deploy
